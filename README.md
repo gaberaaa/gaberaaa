@@ -24,4 +24,4 @@ while(alive) {
 
 📫 **Contato:**  
 ✉️ Email: ga.dev1997@gmail.com 
-🔗 [LinkedIn]()  
+🔗 [LinkedIn](https://www.linkedin.com/in/ga-dev1997/)  
