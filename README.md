@@ -19,6 +19,10 @@ while(alive) {
 - Frontend [Básico]: HTML, CSS, JavaScript  
 - Ferramentas: Git, GitHub
 
+🎮 **Games:**
+- RUST
+- Path of Exile 2
+
 📚 **Aprendendo:**
 - Cursando Ensino Superior em Banco De Dados [4º Semestre].
 - Aprendendo sobre PHP/GIT/Docker com a Alura. Atualmente aprendendo sobre padrão MVC!
