@@ -12,16 +12,15 @@ while(alive) {
 🚀 Sempre explorando novas tecnologias
 🎮 Apaixonado por games e programação
 
-
 🛠️ **Tecnologias:**  
 - Backend: PHP, MySQL, Laravel  
-- Frontend [Basico]: HTML, CSS, JavaScript  
+- Frontend [Básico]: HTML, CSS, JavaScript  
 - Ferramentas: Git, GitHub
 
 📚 **Aprendendo:**
--Cursando Ensino Superior em Banco De Dados [4* Semestre] .
--Aprendendo sobre PHP/GIT/Docker com a Alura. Atualmente aprendendo sobre padrão MVC !
+- Cursando Ensino Superior em Banco De Dados [4º Semestre].
+- Aprendendo sobre PHP/GIT/Docker com a Alura. Atualmente aprendendo sobre padrão MVC!
 
 📫 **Contato:**  
-✉️ Email: ga.dev1997@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/ga-dev1997/)
+✉️ Email: ga.dev1997@gmail.com  
+🔗 **LinkedIn**: [https://www.linkedin.com/in/ga-dev1997/](https://www.linkedin.com/in/ga-dev1997/)
