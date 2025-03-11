@@ -8,7 +8,7 @@ while(alive) {
    repeat();
 }
 
-´´´
+```
 
 🧑‍💻 Backend Developer | PHP | MySQL
 🚀 Sempre explorando novas tecnologias
