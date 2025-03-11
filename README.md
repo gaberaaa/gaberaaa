@@ -23,4 +23,4 @@ while(alive) {
 
 📫 **Contato:**  
 ✉️ Email: ga.dev1997@gmail.com  
-🔗 **LinkedIn**: [https://www.linkedin.com/in/gabriel-da-silva-pereirati/]
+🔗 [LinkedIn]: (https://www.linkedin.com/in/gabriel-da-silva-pereirati/)
