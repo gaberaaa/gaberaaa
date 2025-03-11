@@ -12,18 +12,6 @@ while(alive) {
 🚀 Sempre explorando novas tecnologias
 🎮 Apaixonado por games e programação
 
-📫 Me encontre em:
-
-
----
-
-## 🔹 **6. Estilo Inspirador e Motivacional**  
-Uma abordagem mais **pessoal e inspiradora**.  
-
-```md
-# Seja bem-vindo ao meu espaço no GitHub! 🚀  
-
-💡 "A tecnologia move o mundo, e eu movo minhas ideias com código!"  
 
 🛠️ **Tecnologias:**  
 - Backend: PHP, MySQL, Laravel  
